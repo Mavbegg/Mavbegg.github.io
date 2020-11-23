@@ -2,9 +2,9 @@
 layout: post
 title: Peat fractionation
 subtitle: new approaches to assessing carbon quality in organic soils 
-cover-img: /assets/img/DSC_0106.jpg
+cover-img: /assets/img/tasi.jpg
 thumbnail-img: /assets/img/peatyyy.jpg
-share-img: /assets/img/DSC_0106.jpg
+share-img: /assets/img/tasi.jpg
 tags: [Carbon, Peat]
 ---
 
