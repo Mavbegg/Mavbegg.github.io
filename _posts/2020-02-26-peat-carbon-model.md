@@ -5,7 +5,7 @@ subtitle: new approaches to assessing carbon quality in organic soils
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [Carbon, Peat]
 ---
 
 The carbon sequestration potential of soils depends on the turnover time of the carbon inputs. Carbon turnover models partition soil carbon into conceptual pools with different turnover times. Soil carbon fractionation methods can relate those model pools to measurable soil fractions. Quantifying these conceptual pools has posed methodological challenges over the last several decades. 
