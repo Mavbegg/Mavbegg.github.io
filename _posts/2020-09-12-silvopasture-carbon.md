@@ -3,7 +3,7 @@ layout: post
 title: Agroforestry
 subtitle: Ecosystem services and productivity
 cover-img: /assets/img/cover.jpg
-thumbnail-img: /assets/img/silvo.jpg
+thumbnail-img: /assets/img/silvo.png
 share-img: /assets/img/cover.jpg
 tags: [Carbon, Agriculture]
 ---
