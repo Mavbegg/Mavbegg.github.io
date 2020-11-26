@@ -16,8 +16,8 @@ author: Marvin Beckert
 navbar-links:
   #About Me: "aboutme"
   Projects:
-    - Silvopasture: "silvo"
-    - Peatlands: "peat"
+    - Silvopasture: "silvo/"
+    - Peatlands: "peat/"
 
 
 # --- Logo --- #
